@@ -13,9 +13,9 @@
 
 html {
   font-size: 100%;
-  --primary-color: #1e3932; /* SB Green */
+  --primary-color: #90b7f5; /* light blue */
   --secondary-color: #eba272; /* SB Orange */
-  --primary-highlight: #00754a; /* SB Light Green */
+  --primary-highlight: #033098; /* dark green */
   --primary-font: "Open Sans", sans-serif;
 }
 
@@ -126,7 +126,7 @@ button:hover {
 
 /* Adds outline effect to special highlighted text */
 .stroke {
-  color: #d4e9e2;
+  color: #d4e0e9;
   text-shadow: -1px -1px 0 var(--primary-color), 1px -1px 0 var(--primary-color),
     -1px 1px 0 var(--primary-color), 1px 1px 0 var(--primary-color);
 }
@@ -454,7 +454,7 @@ main {
 /* Featured product CTA section */
 
 .featured-product-cta {
-  background-color: #007042;
+  background-color: #002d70;
   color: #fff;
 }
 
