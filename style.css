@@ -13,9 +13,9 @@
 
 html {
   font-size: 100%;
-  --primary-color: #CEE1ED; /* light blue */
-  --secondary-color: #000000; /* SB Orange */
-  --primary-highlight: #204156; /* dark blue */
+  --primary-color: #325475; /* dark gray */
+  --secondary-color: #eba272; /* SB Orange */
+  --primary-highlight: #D7E2EE; /* SB Light gray */
   --primary-font: "Open Sans", sans-serif;
 }
 
@@ -126,7 +126,7 @@ button:hover {
 
 /* Adds outline effect to special highlighted text */
 .stroke {
-  color: #d4e0e9;
+  color: #D7E2EE;
   text-shadow: -1px -1px 0 var(--primary-color), 1px -1px 0 var(--primary-color),
     -1px 1px 0 var(--primary-color), 1px 1px 0 var(--primary-color);
 }
@@ -388,12 +388,12 @@ main {
 
 /* Primary CTA section */
 .primary-cta-slogan {
-  background-color: #CEE1ED;
+  background-color: #D7E2EE;
   font-size: 2rem;
 }
 
 .primary-cta {
-  background-color: #204156;
+  background-color: #325475;
   color: #fff;
 }
 
@@ -405,7 +405,7 @@ main {
 /* Holiday CTA section */
 
 .holiday-cta {
-  background-color: #CEE1ED;
+  background-color: #D7E2EE;
   color: var(--primary-color);
 }
 
@@ -448,13 +448,13 @@ main {
 }
 
 .card-caption a:hover {
-  color: #CEE1ED;
+  color: dodgerblue;
 }
 
 /* Featured product CTA section */
 
 .featured-product-cta {
-  background-color: #204156;
+  background-color: #325475;
   color: #fff;
 }
 
