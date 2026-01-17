@@ -13,9 +13,9 @@
 
 html {
   font-size: 100%;
-  --primary-color: #90b7f5; /* light blue */
-  --secondary-color: #eba272; /* SB Orange */
-  --primary-highlight: #033098; /* dark green */
+  --primary-color: #5b90e6; /* light blue */
+  --secondary-color: #ebcb72; /* SB Orange */
+  --primary-highlight: #033098; /* dark blue */
   --primary-font: "Open Sans", sans-serif;
 }
 
@@ -388,12 +388,12 @@ main {
 
 /* Primary CTA section */
 .primary-cta-slogan {
-  background-color: #d4e9e2;
+  background-color: dodgerblue;
   font-size: 2rem;
 }
 
 .primary-cta {
-  background-color: #1e3932;
+  background-color: #002d70;
   color: #fff;
 }
 
