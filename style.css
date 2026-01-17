@@ -202,6 +202,14 @@ nav a {
   padding: 7px;
 }
 
+.logo-img{
+  height: 40px;      /* 大小改這裡 */
+  width: 40px;       /* 做成方形 */
+  border-radius: 50%;/* 圓形頭像效果 */
+  object-fit: cover; /* 裁切填滿不變形 */
+  display: block;
+}
+
 .nav-location {
   margin-right: 10px;
   display: flex;
