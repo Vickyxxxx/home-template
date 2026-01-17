@@ -13,9 +13,9 @@
 
 html {
   font-size: 100%;
-  --primary-color: #5b90e6; /* light blue */
-  --secondary-color: #ebcb72; /* SB Orange */
-  --primary-highlight: #033098; /* dark blue */
+  --primary-color: #CEE1ED; /* light blue */
+  --secondary-color: #000000; /* SB Orange */
+  --primary-highlight: #204156; /* dark blue */
   --primary-font: "Open Sans", sans-serif;
 }
 
@@ -388,12 +388,12 @@ main {
 
 /* Primary CTA section */
 .primary-cta-slogan {
-  background-color: dodgerblue;
+  background-color: #CEE1ED;
   font-size: 2rem;
 }
 
 .primary-cta {
-  background-color: #002d70;
+  background-color: #204156;
   color: #fff;
 }
 
@@ -405,7 +405,7 @@ main {
 /* Holiday CTA section */
 
 .holiday-cta {
-  background-color: #d4e9e2;
+  background-color: #CEE1ED;
   color: var(--primary-color);
 }
 
@@ -448,13 +448,13 @@ main {
 }
 
 .card-caption a:hover {
-  color: dodgerblue;
+  color: #CEE1ED;
 }
 
 /* Featured product CTA section */
 
 .featured-product-cta {
-  background-color: #002d70;
+  background-color: #204156;
   color: #fff;
 }
 
